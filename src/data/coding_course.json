@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "C++ Fundamentals",
+        "slug": "cpp-fundamentals",
+        "description": "Learn the fundamental of C++ programing language including OOP, Pointer, and STL concepts with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/cpp.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "DSA with C++",
+        "slug": "dsa+cpp-for-beginners",
+        "description": "Start your DSA journey with CPP taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/dsa&cpp.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Java Fundamentals",
+        "slug": "java_fundamentals",
+        "description": "Learn the fundamental of Java programing language including OOP, MutiThreading, and Collection concepts with our comprehensive beginner's course.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/java.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "DSA with Java",
+        "slug": "dsa-with-java",
+        "description": "Start your DSA journey with CPP taught by expert instructors.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/dsa&java.jpg"
+      },
+      {
+        "id": 5,
+        "title": "HTML & CSS",
+        "slug": "html & css",
+        "description": "start the journey of front-end development with strong foundation of HTML & CSS with our  expert instructors.",
+        "price": 19.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/html&css.jpg"
+      },
+      {
+        "id": 6,
+        "title": "JavaScript Fundamentals",
+        "slug": "javascript-fundamentals",
+        "description": "Learn the core concepts of JavaScript, including variables, functions, loops, and DOM manipulation, to build dynamic and interactive web applications.",
+        "price": 29.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/javascript.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Advance JavaScript",
+        "slug": "advance-javascript",
+        "description": "Master advanced JavaScript concepts such as asynchronous programming, closures, prototypes, and ES6+ features to build efficient and scalable applications.",
+        "price": 49.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/adv-js.jpg"
+      },
+      {
+        "id": 8,
+        "title": "ReactJS Mastery",
+        "slug": "mastery-in-reactjs",
+        "description": "Become a React.js expert by mastering advanced concepts like hooks, context, performance optimization, and state management with Redux or Zustand. ",
+        "price": 99.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Backend Mastery",
+        "slug": "mastery-in-backend",
+        "description": "Master backend development by learning advanced concepts like RESTful APIs, authentication, database design, and scalable architectures.",
+        "price": 149.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/classical-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "NextJS Mastery",
+        "slug": "nextjs-mastery",
+        "description": "Master Next.js by learning advanced features like server-side rendering (SSR), static site generation (SSG), API routes, and dynamic routing.",
+        "price": 149.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/blues.jpg"
+      }
+    ]
+  }
+  
